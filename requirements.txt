@@ -1,0 +1,4 @@
+cv2
+numpy 
+os
+opencv-python=3.3.1.11
